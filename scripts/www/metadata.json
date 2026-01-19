@@ -1,0 +1,5 @@
+{
+  "name": "IOS HanYu AI - 韩语智学",
+  "description": "A minimalist, AI-powered Korean learning assistant for Chinese speakers featuring vocabulary, reading, and listening practice with Gemini and DeepSeek integration.",
+  "requestFramePermissions": []
+}
